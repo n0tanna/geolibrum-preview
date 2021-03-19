@@ -6,7 +6,7 @@ function App() {
     <div className="HomePage">
         <img src={logo} alt="logo" className="Image" />
         <p />
-        <p className="Text">Coming Soon...</p>
+        <p>Coming Soon...</p>
     </div>
   );
 }

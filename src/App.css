@@ -2,20 +2,12 @@
 .HomePage {
   background-color: #EFF1F3;
   min-height: 100vh;
-  align-items: center;
   justify-content: center;
-}
-
-.Image {
-  margin-left: 35%;
-  margin-top: 8%;
-}
-
-.Text{
-  margin-top: 0;
-  margin-left: 39.5%;
+  align-items: center;
+  display: flex;
   font-size: 50px;
-  color: #223843;
+  color: #223843
 }
+
 
 
